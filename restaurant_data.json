@@ -2,8 +2,8 @@
   {
     "order_id": "BL71C6D404",
     "customer": "DERANGULA KAVYASREE",
-    "phone": "7386159926",
-    "address": "Sn colony,Anjaneya street, 33/148-h-8-1,Rayachoty",
+    "phone": "7358789576",
+    "address": "Rayachoty",
     "payment": "Cash on Delivery",
     "items": [
       {
@@ -30,8 +30,8 @@
   {
     "order_id": "BLCB777E34",
     "customer": "DERANGULA KAVYASREE",
-    "phone": "7386159926",
-    "address": "Sn colony,Anjaneya street, 33/148-h-8-1,Rayachoty",
+    "phone": "7387589906",
+    "address": "Rayachoty",
     "payment": "UPI on Delivery",
     "items": [
       {
@@ -58,8 +58,8 @@
   {
     "id": "BL94F75F3C",
     "customer": "DERANGULA KAVYASREE",
-    "phone": "7386159926",
-    "address": "Sn colony,Anjaneya street, 33/148-h-8-1,Rayachoty",
+    "phone": "7234185676",
+    "address": "Rayachoty",
     "payment": "Cash on Delivery",
     "items": [
       {
@@ -92,8 +92,8 @@
   {
     "id": "BLA4FD712D",
     "customer": "Ruthvika",
-    "phone": "7386159926",
-    "address": "Sn colony,Anjaneya street, 33/148-h-8-1,Rayachoty",
+    "phone": "7382344596",
+    "address": "Rayachoty",
     "payment": "UPI on Delivery",
     "items": [
       {
@@ -120,8 +120,8 @@
   {
     "order_id": "BL1BF5521B",
     "customer": "DERANGULA KAVYASREE",
-    "phone": "7386159926",
-    "address": "Sn colony,Anjaneya street, 33/148-h-8-1,Rayachoty",
+    "phone": "7382338716",
+    "address": "Rayachoty",
     "payment": "Cash on Delivery",
     "items": [
       {
@@ -149,8 +149,8 @@
     "order_id": "BL6F296EF6",
     "id": "BL6F296EF6",
     "customer": "DERANGULA KAVYASREE",
-    "phone": "7386159926",
-    "address": "Sn colony,Anjaneya street, 33/148-h-8-1,Rayachoty",
+    "phone": "7382338716",
+    "address": "Rayachoty",
     "payment": "Cash on Delivery",
     "items": [
       {
@@ -171,8 +171,8 @@
     "order_id": "BL0A3AE30B",
     "id": "BL0A3AE30B",
     "customer": "Rishi",
-    "phone": "8520039191",
-    "address": "Sn colony,Anjaneya street, 33/148-h-8-1,Rayachoty",
+    "phone": "8626167918",
+    "address": "Rayachoty",
     "payment": "Cash on Delivery",
     "items": [
       {
@@ -188,5 +188,32 @@
     "status": "Delivered",
     "created_at": "17-10-2026 11:48:31",
     "date": "17-10-2026 11:48:31"
+  },
+  {
+    "order_id": "BL147B4BA9",
+    "id": "BL147B4BA9",
+    "customer": "Kavya",
+    "phone": "6539659125",
+    "address": "Hyderabad",
+    "payment": "Cash on Delivery",
+    "items": [
+      {
+        "name": "Chicken Dum Biryani",
+        "price": 220,
+        "quantity": 1,
+        "subtotal": 220
+      },
+      {
+        "name": "Veg Biryani",
+        "price": 140,
+        "quantity": 1,
+        "subtotal": 140
+      }
+    ],
+    "food_total": 360,
+    "delivery_fee": 30,
+    "total": 390,
+    "status": "Order Placed",
+    "created_at": "18-10-2026 16:47:33"
   }
 ]
