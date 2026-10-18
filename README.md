@@ -16,7 +16,7 @@ The Restaurant Ordering System is a Python-based web application developed using
 
 - **Programming Language:** Python
 - **Web Framework:** Streamlit
-- **Libraries:** Pandas (if used in the application)
+- **Libraries:** Pandas 
 
 ## Installation and Execution
 
