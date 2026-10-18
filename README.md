@@ -1,74 +1,63 @@
-# 🍽️ Restaurant Ordering System
+# Restaurant Ordering System
 
-## 📌 Project Overview
+## Overview
 
-The Restaurant Ordering System is a web application developed using Python and Streamlit to simplify the food ordering process. It enables users to browse a restaurant menu, view food images and prices, add items to their cart, calculate the total bill, place orders, and track order details through a stylish and user-friendly interface.
+The Restaurant Ordering System is a Python-based web application developed using Streamlit to simplify the food ordering process. It provides an interactive interface for browsing menu items, viewing food images and prices, managing a shopping cart, calculating order totals, placing orders, and tracking order details.
 
-## ✨ Features
+## Key Features
 
-- **Interactive Menu:** Browse food items with images and prices.
-- **Food Categories:** Explore available vegetarian and non-vegetarian dishes.
-- **Shopping Cart:** Add food items to the cart and manage selections.
-- **Automatic Bill Calculation:** Calculate the total order cost.
-- **Order Placement:** Place orders through the application.
-- **Order Tracking:** View order details and track order status.
-- **User-Friendly Interface:** Enjoy a clean, stylish, and interactive design.
+- **Interactive Food Menu:** Displays food items with images, names, and prices.
+- **Cart Management:** Allows users to add food items to their cart.
+- **Bill Calculation:** Calculates the total cost of selected items.
+- **Order Management:** Supports order placement and order tracking.
+- **Responsive Interface:** Provides a clean and user-friendly experience.
 
-## 🛠️ Technologies Used
+## Technology Stack
 
-- Python
-- Streamlit
+- **Programming Language:** Python
+- **Web Framework:** Streamlit
+- **Libraries:** Pandas (if used in the application)
 
-## ⚙️ Installation and Setup
+## Installation and Execution
 
-### Prerequisites
-
-- Python 3.9 or later
-- pip package manager
-
-### Step 1: Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Kavyasree-derangula/Restaurant-Ordering-System.git
 ```
 
-### Step 2: Navigate to the Project Directory
+### 2. Navigate to the Project Directory
 
 ```bash
 cd Restaurant-Ordering-System
 ```
 
-### Step 3: Install Dependencies
+### 3. Install Dependencies
 
 ```bash
 python -m pip install streamlit pandas
 ```
 
-### Step 4: Run the Application
+### 4. Run the Application
 
 ```bash
 python -m streamlit run app.py
 ```
 
-### Step 5: Open the Application
+The application will open in your browser at `http://localhost:8501`.
 
-Open the local URL displayed in your terminal, usually:
+## Project Objective
 
-`http://localhost:8501`
+The objective of this project is to demonstrate the development of an interactive food ordering application using Python. It simplifies menu browsing, cart management, and order processing while providing a convenient digital ordering experience.
 
-## 🎯 Project Objective
+## Future Improvements
 
-The main objective of this project is to provide a simple and convenient digital food ordering experience. It demonstrates how Python and Streamlit can be used to build an interactive web application with menu management, cart functionality, bill calculation, and order handling.
-
-## 💡 Future Enhancements
-
-- User registration and login
+- Database integration for persistent order storage
+- User authentication and profile management
 - Online payment integration
-- Database integration for storing orders
-- Restaurant administration dashboard
-- Order history and customer feedback
+- Order history and administrative dashboard
 
-## 👩‍💻 Author
+## Author
 
 **Kavya Sree**
 
@@ -76,4 +65,4 @@ GitHub: [Kavyasree-derangula](https://github.com/Kavyasree-derangula)
 
 ---
 
-*Developed as a Python web application project using Streamlit.*
+*Developed using Python and Streamlit.*
